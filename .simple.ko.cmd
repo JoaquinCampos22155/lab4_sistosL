@@ -1,0 +1,1 @@
+savedcmd_/home/jj/Escritorio/lab4_sistosL/simple.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/jj/Escritorio/lab4_sistosL/simple.ko /home/jj/Escritorio/lab4_sistosL/simple.o /home/jj/Escritorio/lab4_sistosL/simple.mod.o

@@ -1,0 +1,1 @@
+savedcmd_/home/jj/Escritorio/lab4_sistosL/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/jj/Escritorio/lab4_sistosL/Module.symvers -T /home/jj/Escritorio/lab4_sistosL/modules.order -i Module.symvers -e 
